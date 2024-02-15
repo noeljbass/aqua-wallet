@@ -13,7 +13,7 @@
         "Id": "ce091c998b83c78bb71a632313ba3760f1763d9cfcffae02258ffa9865a37bd2",
         "Ticker": "USDt",
         "Logo": "https://aqua-asset-logos.s3.us-west-2.amazonaws.com/USDt.svg",
-        "Default": true
+        "Default": false
       },
       {
         "Name": "INF",
